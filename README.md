@@ -1,2 +1,2 @@
-# podman-images
-Podman image collection and other configurations.
+# podman-configs
+Podman configurations and docs.
